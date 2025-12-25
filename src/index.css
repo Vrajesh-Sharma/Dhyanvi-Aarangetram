@@ -2,21 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
+html, body {
+  @apply h-full w-full bg-cream text-maroon-900;
   scroll-behavior: smooth;
 }
 
-body {
-  @apply bg-cream text-gray-800 antialiased;
+/* Fix for the blue selection blocks seen in your screenshot */
+::selection {
+  @apply bg-maroon-900 text-gold-400;
 }
 
-/* Custom scrollbar for a polished feel */
-::-webkit-scrollbar {
-  width: 8px;
+/* Typography Defaults */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', serif;
 }
-::-webkit-scrollbar-track {
-  @apply bg-cream;
-}
-::-webkit-scrollbar-thumb {
-  @apply bg-maroon-800/50 rounded-full;
+p, span, div, a, button {
+  font-family: 'Lato', sans-serif;
 }
