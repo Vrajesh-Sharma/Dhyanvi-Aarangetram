@@ -8,21 +8,21 @@ A culturally rich, high-performance digital invitation website built for a Bhara
 
 ## 📸 Photos
 
-![Preview 1](public\images\Dhyanvi.JPG)
+![Preview 1](public/images/Dhyanvi.JPG)
 
-![Preview 2](public\images\Krishna.JPG)
+![Preview 2](public/images/Krishna.JPG)
 
-![Preview 3](public\images\6D1A2777.JPG)
+![Preview 3](public/images/6D1A2777.JPG)
 
-![Preview 4](public\images\6D1A2798.JPG)
+![Preview 4](public/images/6D1A2798.JPG)
 
-![Preview 5](public\images\6D1A3025.JPG)
+![Preview 5](public/images/6D1A3025.JPG)
 
-![Preview 6](public\images\6D1A3106.JPG)
+![Preview 6](public/images/6D1A3106.JPG)
 
-![Preview 7](public\images\6D1A2771.JPG)
+![Preview 7](public/images/6D1A2771.JPG)
 
-![Preview 8](public\images\6D1A2775.JPG)
+![Preview 8](public/images/6D1A2775.JPG)
 ---
 
 ## ✨ Features
