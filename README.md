@@ -1,16 +1,37 @@
-# React + Vite
+# 🦚 Dhyanvi's Aarangetram - Digital Invitation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A culturally rich, high-performance digital invitation website built for a Bharatanatyam Aarangetram. This project combines traditional Indian aesthetics ("Temple Grandeur") with modern web technologies to create an elegant, mobile-first experience.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://dhyanvi.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📸 Photos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Preview 1](public\images\Dhyanvi.JPG)
 
-## Expanding the ESLint configuration
+![Preview 2](public\images\Krishna.JPG)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview 3](public\images\6D1A2777.JPG)
+
+![Preview 4](public\images\6D1A2798.JPG)
+
+![Preview 5](public\images\6D1A3025.JPG)
+
+![Preview 6](public\images\6D1A3106.JPG)
+
+![Preview 7](public\images\6D1A2771.JPG)
+
+![Preview 8](public\images\6D1A2775.JPG)
+---
+
+## ✨ Features
+
+- **🎨 Temple Aesthetic:** Custom "Maroon & Gold" theme using Tailwind CSS.
+- **📱 Fully Responsive:** Optimized for both mobile phones and large desktop screens.
+- **⚡ Smooth Animations:** Entrance effects and page transitions powered by **Framer Motion**.
+- **🗺️ Navigation:** Multi-page routing with auto-scroll to top functionality.
+- **📍 Location Intelligence:** Embedded Google Maps with specific "RTO Road" directions.
+- **📅 Calendar Integration:** "Add to Google Calendar" button with exact event timings converted to UTC.
+
+---
