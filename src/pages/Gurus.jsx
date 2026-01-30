@@ -1,9 +1,12 @@
 import { motion } from 'framer-motion';
 
 const teachers = [
-  { name: "Guru [Name]", role: "Main Choreographer", img: "https://via.placeholder.com/300" }, // Replace with real images
-  { name: "Guru [Name]", role: "Nattuvangam", img: "https://via.placeholder.com/300" },
-  { name: "Guru [Name]", role: "Vocalist", img: "https://via.placeholder.com/300" }
+  { name: "Khamma Parag Shah", role: "Main Choreographer", img: "/images/Khamma_maam.jpeg" },
+  { name: "Neel Soni", role: "Nattuvangam", img: "/images/Neel_maam.jpeg" },
+  { name: "Singer", role: "Saumya Nedungadi", img: "https://via.placeholder.com/300" },
+  { name: "Violin", role: "Prem Menon", img: "https://via.placeholder.com/300" },
+  { name: "Mrudang", role: "Anant Menon", img: "https://via.placeholder.com/300" },
+  { name: "Flute", role: "Rajendran Nair", img: "https://via.placeholder.com/300" },
 ];
 
 export default function Gurus() {
