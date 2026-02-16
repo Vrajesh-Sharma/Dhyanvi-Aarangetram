@@ -13,7 +13,7 @@ export default function Home() {
       {/* --- BACKGROUND IMAGE HANDLING --- */}
       <div className="absolute inset-0">
         <img 
-          src="/images/Dhyanvi.JPG" 
+          src="/images/Dhyanvi.webp" 
           alt="Dhyanvi Arangetram"
           className="w-full h-full object-cover object-top opacity-90"
         />

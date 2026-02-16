@@ -14,13 +14,13 @@ export default function Journey() {
 
   // REPLACE these with your real file names
   const galleryImages = [
-    "6D1A2771.JPG", 
-    "6D1A3025.JPG", // Add your other real image names here
+    "6D1A2771.webp", 
+    "6D1A3025.webp", // Add your other real image names here
     "Krishna.JPG",
-    "6D1A2775.JPG", 
-    "6D1A2777.JPG", 
-    "6D1A2798.JPG",
-    "6D1A3106.JPG", 
+    "6D1A2775.webp", 
+    "6D1A2777.webp", 
+    "6D1A2798.webp",
+    "6D1A3106.webp", 
   ];
 
   return (
