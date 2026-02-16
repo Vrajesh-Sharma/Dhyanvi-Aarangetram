@@ -2,11 +2,15 @@ import { motion } from 'framer-motion';
 
 export default function Journey() {
   const moments = [
-    { year: "The Beginning", text: "Stepping into the classroom for the first time, confused but captivated by the sound of ghungroos." },
-    { year: "The Struggle", text: "Balancing academics with rigorous practice. The blistered feet, the fatigue, and the moments of wanting to give up." },
-    { year: "The Breakthrough", text: "Understanding that dance isn't just steps, but emotion. The first time she truly felt the character she was portraying." },
-    { year: "The Ascent", text: "Today, she stands ready. Not perfect, but persistent. A result of years of sweat and sacrifice." }
-  ];
+  { year: "The First Step", 
+    text: "At the tender age of five, Dhyanvi stepped into the world of Bharatanatyam under the guidance of her Guru, beginning a journey rooted in discipline and devotion."},
+  { year: "Years of Sadhana", 
+    text: "With unwavering support from her family and constant encouragement from her Guru, she immersed herself in years of dedicated practice, shaping not only her technique, but her character."},
+  { year: "Dance as Devotion", 
+    text: "For Dhyanvi, dance evolved beyond movement. It became a sacred offering, a way to express bhava, rhythm, and gratitude to the divine."},
+  { year: "The Arangetram", 
+    text: "Today, she ascends the stage with humility and grace, presenting her art to rasikas and offering her completed sadhana at the feet of the Almighty."}
+];
 
   // REPLACE these with your real file names
   const galleryImages = [

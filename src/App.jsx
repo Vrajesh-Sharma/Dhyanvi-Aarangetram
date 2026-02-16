@@ -13,6 +13,9 @@ import Timeline from './pages/Timeline';
 import Gurus from './pages/Gurus';
 import Location from './pages/Location';
 
+// Analytics (Vercel)
+import { Analytics } from "@vercel/analytics/react"
+
 // --- 1. DEFINE ALL YOUR IMAGE PATHS HERE ---
 const imagesToPreload = [
   "images/Dhyanvi.JPG",
@@ -57,6 +60,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Preloader/>
+      <Analytics />
       <Layout>
         <AnimatedRoutes />
       </Layout>

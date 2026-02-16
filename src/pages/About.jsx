@@ -9,20 +9,27 @@ export default function About() {
       <h1 className="font-serif text-4xl md:text-5xl text-maroon-800 text-center mb-16">The Artist & The Art</h1>
       
       {/* Section 1: Dhyanvi */}
-      <div className="grid md:grid-cols-2 gap-12 items-center mb-24">
-        <div className="order-2 md:order-1">
-          <h2 className="font-serif text-3xl text-gold-500 mb-4">Meet Dhyanvi</h2>
-          <p className="font-sans text-lg text-gray-700 leading-relaxed mb-4">
-            Graceful, determined, and deeply connected to her roots. For Dhyanvi, dance is not just movement; it is a form of prayer. 
-          </p>
-          <p className="font-sans text-lg text-gray-700 leading-relaxed">
-             Starting at a young age, she found solace in the rhythm of the Tatkaar and the expression of Abhinaya. This performance is a testament to her love for the art form.
-          </p>
-        </div>
-        <div className="order-1 md:order-2">
-            <img src="/images/6D1A2771.JPG" alt="Dhyanvi" className="rounded-lg shadow-2xl border-4 border-gold-400/20 rotate-2 hover:rotate-0 transition-transform duration-500" />
-        </div>
+      <div className="order-2 md:order-1">
+        <h2 className="font-serif text-3xl text-gold-500 mb-4">Meet Dhyanvi</h2>
+        <p className="font-sans text-lg text-gray-700 leading-relaxed mb-4">
+          For Dhyanvi, Bharatanatyam is not merely a dance form, it is a sacred sadhana. 
+          Guided by her Guru and supported wholeheartedly by her family, she began 
+          this beautiful journey at a young age of 5, embracing discipline, devotion, and grace.
+        </p>
+        <p className="font-sans text-lg text-gray-700 leading-relaxed mb-4">
+          What started as learning steps and rhythm slowly blossomed into a deep spiritual 
+          connection with the art. Through years of dedicated practice, she has grown not 
+          only as a dancer but as a seeker of expression and tradition.
+        </p>
+        <p className="font-sans text-lg text-gray-700 leading-relaxed">
+          This Arangetram marks the completion of her initial training, a moment where 
+          she offers her art with humility and devotion to the divine, and steps forward 
+          from a student into a true performer of this timeless heritage.
+        </p>
       </div>
+
+      <br>
+      </br>
 
       {/* Section 2: What is Arangetram */}
       <div className="bg-maroon-900 text-cream p-8 md:p-12 rounded-2xl shadow-xl">
