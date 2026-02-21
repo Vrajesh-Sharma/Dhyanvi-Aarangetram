@@ -21,6 +21,9 @@ export default function Journey() {
     "6D1A2777.webp", 
     "6D1A2798.webp",
     "6D1A3106.webp", 
+    "6D1A2784.webp",
+    "6D1A2792.webp",
+    "DSC01082.webp",
   ];
 
   return (
